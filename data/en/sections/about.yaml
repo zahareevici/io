@@ -8,36 +8,32 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Retail Manager
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Altex Romania.
+  url: "https://altex.ro"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate about getting things done!.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "ion@armasu.eu"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://www.github.com/zahareevici"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/armasu/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -52,23 +48,23 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Professional Scrum Product Owner
+  url: "https://www.scrum.org/professional-scrum-product-owner-certifications"
+  badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-02/1PSPO%20Logo.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Professional Scrum Master
+  url: "https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments"
+  badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-02/1PSM%20Logo.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Google Digital Workshop
+  url: "https://learndigital.withgoogle.com/digitalgarage/courses?category=digital_marketing"
+  badge: "https://lh3.googleusercontent.com/21Mlc_bfmIP34V4MgJMtr1S9sGbxNGVdj7ncT_jmiQNAhvqJNYwWhnOdKuY2h57SpOuaOk_aF5dAnrz0w4tbDLVy0wxZHJCUQC3y=s299"
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
@@ -78,7 +74,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 87
   color: orange
 
 # you can also provide color code instead of the color name
