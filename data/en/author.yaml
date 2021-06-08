@@ -1,18 +1,18 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Ion Armasu"
+nickname: "ion"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
+  email: "ion(@)armasu.eu"
   phone: "+0123456789"
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Manager
+  - I am a Product Owner
+  - I am a Agile Scrum Master
+  - I work on large scale projects
+  - I lead great team of people
