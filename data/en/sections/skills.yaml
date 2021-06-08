@@ -16,11 +16,6 @@ skills:
   summary: "CCreate a data-driven culture with business intelligence for your organization, advanced data analytics with most powerful tool."
   url: "https://powerbi.microsoft.com/en-us/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
 - name: Project Management
   logo: /images/sections/skills/pm.png
   summary: "Working with collection of proven techniques for proposing, planning, implementing, managing, and evaluating projects, combined with the art of managing people. It is the application of knowledge, skills, tools, and techniques to a broad range of activities to meet the specified requirements of a particular project."
@@ -28,8 +23,3 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
