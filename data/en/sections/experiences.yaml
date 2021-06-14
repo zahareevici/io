@@ -36,9 +36,9 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
+    name: Bass Systems SRL.
     url: "https://www.example.com"
-    location: Nowhere
+    location: Chisinau, MD
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Software Engineer
@@ -50,9 +50,9 @@ experiences:
     - See lots of example videos.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
+    name: Gasa Group Holland B.V. 
+    url: "Gasa-Holland.com"
+    location: Aalsmeer, The Netherlands
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
   - designation: Intern
