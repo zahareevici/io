@@ -23,9 +23,3 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 80
-  color: blue
-  
