@@ -60,11 +60,11 @@ badges:
 - type: certification
   name: Google Digital Workshop
   url: "https://learndigital.withgoogle.com/digitalgarage/courses?category=digital_marketing"
-  badge: "https://lh3.googleusercontent.com/21Mlc_bfmIP34V4MgJMtr1S9sGbxNGVdj7ncT_jmiQNAhvqJNYwWhnOdKuY2h57SpOuaOk_aF5dAnrz0w4tbDLVy0wxZHJCUQC3y=s299"
+  badge: "https://clipground.com/images/google-chrome-clipart-png-16.png"
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 80
+  percentage: 90
   color: green
 
 - type: soft-skill-indicator
@@ -74,7 +74,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 90
+  percentage: 80
   color: blue
 
 # you can also provide color code instead of the color name
