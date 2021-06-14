@@ -74,11 +74,11 @@ badges:
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 92
+  percentage: 78
   color: orange
 
 # you can also provide color code instead of the color name
- - type: soft-skill-indicator
-   name: Example 1
-   percentage: 75
-   color: "#00adb5"
+  #- type: soft-skill-indicator
+  #name: Example 1
+  #percentage: 75
+  #color: "#00adb5"
