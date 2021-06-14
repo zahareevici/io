@@ -20,10 +20,6 @@ skills:
   logo: /images/sections/skills/pm.png
   summary: "Working with collection of proven techniques for proposing, planning, implementing, managing, and evaluating projects, combined with the art of managing people. It is the application of knowledge, skills, tools, and techniques to a broad range of activities to meet the specified requirements of a particular project."
 
-- name: Test
-  logo: https://image.flaticon.com/icons/png/512/630/630624.png
-  summary: "*****"
-
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
