@@ -23,3 +23,7 @@ skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  
+  - name: Romanian  
+  logo: https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/td.svg
+  summary: "fa-star"
