@@ -13,12 +13,16 @@ section:
 skills:
 - name: Power BI
   logo: /images/sections/skills/bi.png
-  summary: "CCreate a data-driven culture with business intelligence for your organization, advanced data analytics with most powerful tool."
+  summary: "Create a data-driven culture with business intelligence for your organization, advanced data analytics with most powerful tool."
   url: "https://powerbi.microsoft.com/en-us/"
 
 - name: Project Management
   logo: /images/sections/skills/pm.png
   summary: "Working with collection of proven techniques for proposing, planning, implementing, managing, and evaluating projects, combined with the art of managing people. It is the application of knowledge, skills, tools, and techniques to a broad range of activities to meet the specified requirements of a particular project."
+
+- name: Test
+  logo: https://image.flaticon.com/icons/png/512/630/630624.png
+  summary: "*****"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
